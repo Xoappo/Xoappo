@@ -4,8 +4,6 @@
   <tr>
     <td align="center" style="background: linear-gradient(135deg, #17181b 0%, #242327 50%, #3a1f24 100%); border: 1px solid #3a363c; border-radius: 14px; padding: 32px 20px;">
 
-# 📄 Cover Letter
-
 <sub>Backend & Web Developer</sub>
 
 <br>
@@ -16,7 +14,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-4B5563?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-4B5563?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-    </td>
   </tr>
 </table>
 
@@ -54,14 +51,14 @@ Thank you for taking the time to read my introduction.
 **Web**
 
 ![Laravel](https://img.shields.io/badge/-Laravel-4B5563?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-7F1D1D?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-B91C1C?style=for-the-badge&logo=spring&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4B5563?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4B5563?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4B5563?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4B5563?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-B91C1C?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-B91C1C?style=for-the-badge&logo=redis&logoColor=white)
 
 **Infrastructure**
