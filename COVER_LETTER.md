@@ -77,5 +77,3 @@ Thank you for taking the time to read my introduction.
 
 - **GitHub:** [@xoappo](https://github.com/xoappo)
 - **Discord:** [@0x04PP](https://discord.com/users/1552893728954388491)
-
-> 💡 Replace the bracketed placeholders with your real details before publishing.
